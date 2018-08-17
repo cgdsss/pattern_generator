@@ -1,0 +1,10 @@
+*.log.*
+*-build-desktop/
+*~
+*.bk
+*.cfgc
+*.user
+*.user*
+*.pro
+*.pyc
+*.log

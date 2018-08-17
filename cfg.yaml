@@ -1,0 +1,8 @@
+tag_type: tag36h11  #type. tag36h11 or ar
+
+tags_id: [1,2,3]
+#The following parameters are in millimeters
+#The origin of the coordinates is at the center of the pdf
+tags_pose: [[-60, 0], [0, 0], [60, 0]]
+tags_size: [40, 40, 40]
+pdf_size: [200, 150]

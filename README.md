@@ -9,9 +9,10 @@ sudo pip install fpdf pyyaml
 ## Usage
 * Configuration file [**cfg.yaml**](https://github.com/cgdsss/pattern_generator/blob/master/cfg.yaml)
 * Run scripts
-```
-python tag.py
-```
+  ```
+  python tag.py
+  ```
+* A pdf file was generated, like [pattern.pdf](https://github.com/cgdsss/pattern_generator/blob/master/pattern.pdf)
 ## Resources
 Here are some related links:
 * [AprilTag's home](https://april.eecs.umich.edu/software/apriltag/) 

@@ -14,6 +14,6 @@ python tag.py
 ```
 ## Resources
 Here are some related links:
-* [AprilTag](https://april.eecs.umich.edu/software/apriltag/) 
-* [AR tag](http://wiki.ros.org/ar_track_alvar)
-* [ROS AprilTag](http://wiki.ros.org/apriltags2_ros)
+* [AprilTag's home](https://april.eecs.umich.edu/software/apriltag/) 
+* [ROS AR_tag Detection](http://wiki.ros.org/ar_track_alvar)
+* [ROS AprilTag Detection](http://wiki.ros.org/apriltags2_ros)

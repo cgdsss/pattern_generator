@@ -24,7 +24,7 @@ for i in range(len(tags_id)):
     pdf.image(img, ((tags_pose[i][0] - tags_size[i] / 2.0) + pdf_size[0]/2.0) * 100.0,
         ((-tags_pose[i][1] - tags_size[i] / 2.0) + pdf_size[1]/2.0) * 100.0,
         tags_size[i] * 100.0, tags_size[i] * 100.0)
-
-pdf.output(os.path.join(current_path, 'pattern.pdf'), 'F')
-print "Already generated: pattern.pdf"
-print "dir:", current_path
+pdf_file = os.path.join(current_path, 'pattern.pdf')
+pdf.output(pdf_file, 'F')
+print "Done."
+print "Already generated:", pdf_file

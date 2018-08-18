@@ -1,6 +1,7 @@
 # tag type: tag36h11 or ar
 tag_type: tag36h11
 
+# Current support: Apriltags tag36h11 [0-586], AR-tag [0-17]
 tags_id: [1,2,3,4,5]
 # The following parameters are in meters
 # The origin of the coordinates is at the center of the pdf

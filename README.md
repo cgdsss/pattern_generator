@@ -4,13 +4,13 @@ PDF pattern generator of AprilTags and AR tags
 * [*PyFPDF*](https://pyfpdf.readthedocs.io/en/latest/index.html)  a library for PDF document generation under Python
 * [*PyYAML*](https://pyyaml.org/)  a full-featured YAML framework for the Python
 ```
-sudo pip install fpdf pyyaml
+sudo pip3 install fpdf pyyaml
 ```
 ## Usage
 * Configuration file [**cfg.yaml**](https://github.com/cgdsss/pattern_generator/blob/master/cfg.yaml)
 * Run scripts
   ```
-  python tag.py
+  python3 tag.py
   ```
 * A pdf file was generated, like [pattern.pdf](https://github.com/cgdsss/pattern_generator/blob/master/pattern.pdf)
 ## Resources
